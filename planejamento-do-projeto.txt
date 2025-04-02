@@ -26,3 +26,9 @@ AMBIENTE INTERNO DO USUÁRIO LOGADO.
 -- Serviços mensais ativos:
 --- Poder criar um crud com o serviço mensal ativo, com nome, descrição, valor, data assinatura, data cancelamento.
 ---- Exemplo: DevMedia, Cursos de TI, 27.90, xx/xx/2024, xx/xx/2025.
+
+- DOCUMENTOS:
+-- Documentos pessoais, veículo, certidões, dados importantes de fácil acesso.
+
+- ESTUDOS:
+-- Matéria, dentro da matéria, aulas, nova aula, editar aula, adicionar imagens dentro da aula, salvar pdf dentro da aula/matéria.
